@@ -2,9 +2,8 @@
 
 ## <a href="https://portfolio-plum-kappa-64.vercel.app/">Portafolio</a>
 
-<img style="float: left" width="47%" src="https://github-readme-stats.vercel.app/api?username=crkos&show_icons=true&theme=radical" alt="Github stats"/>
-<img style="float: left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crkos&layout=compact"  alt="Most used languages"/>
-
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=crkos&show_icons=true&theme=radical" alt="Github stats"/>
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crkos&layout=compact"  alt="Most used languages"/>
 
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
