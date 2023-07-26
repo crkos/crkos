@@ -1,6 +1,6 @@
 # Hola, soy Jordan!
 
-## <a href="https://portfolio-plum-kappa-64.vercel.app/">Portafolio</a>
+## <a href="https://portfolio-plum-kappa-64.vercel.app/" target="_blank" rel="noopener">Portafolio</a>
 
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=crkos&show_icons=true&theme=radical" alt="Github stats"/>
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crkos&layout=compact"  alt="Most used languages"/>
